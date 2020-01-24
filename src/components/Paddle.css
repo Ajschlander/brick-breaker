@@ -1,0 +1,12 @@
+.paddle {
+    width: 150px;
+    height: 25px;
+    background-color: rebeccapurple;
+    border-radius: 4px;
+
+    /* POSITIONING */
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
